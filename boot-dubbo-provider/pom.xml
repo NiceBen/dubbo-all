@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ofben</groupId>
-    <artifactId>boot-bubbo-provider</artifactId>
+    <artifactId>boot-dubbo-provider</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>boot-bubbo-provider</name>
-    <description>boot-bubbo-provider</description>
+    <name>boot-dubbo-provider</name>
+    <description>boot-dubbo-provider</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

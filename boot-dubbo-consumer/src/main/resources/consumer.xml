@@ -11,7 +11,7 @@
 
     <context:component-scan base-package="com.ofben.consumer.service.impl"/>
 
-    <dubbo:application name="dubbo-consumer"/>
+    <dubbo:application name="boot-dubbo-consumer"/>
 
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
 

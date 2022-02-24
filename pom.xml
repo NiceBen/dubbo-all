@@ -18,8 +18,8 @@
 		<module>dubbo-api</module>
 		<module>dubbo-provider</module>
 		<module>dubbo-consumer</module>
-		<module>boot-bubbo-provider</module>
-		<module>boot-bubbo-consumer</module>
+		<module>boot-dubbo-provider</module>
+		<module>boot-dubbo-consumer</module>
 	</modules>
 
 	<dependencyManagement>
